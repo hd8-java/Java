@@ -1,7 +1,7 @@
 ```json
 {
 "prev": "12"
-if "roverloaded": true
+"roverloaded":{Function[equaltp]}
   "debug": 2
 }
 ```
